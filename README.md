@@ -55,4 +55,4 @@ Um gráfico das ferramentas mais mencionadas nas vagas:
 - Adicionar suporte a mais países e regiões.
 - Implementar Machine Learning para classificar vagas automaticamente.
 
-📩 **Contato**: [seu-email@email.com](mailto:seu-email@email.com)
+
